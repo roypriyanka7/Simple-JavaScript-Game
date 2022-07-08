@@ -2,14 +2,7 @@
 <html>
 
 <head>
-  <script>
-    function changeToSmile() {
-      document.getElementById('gif').src = "./assets/happy.gif";
-    }
-    function changeToSad() {
-      document.getElementById('gif').src = "./assets/sad.gif";
-    }
-  </script>
+  <script src="javascriptFunction.js"> </script>
 </head>
 
 <body>
@@ -26,13 +19,13 @@
 
   <p style="text-align: center;">
 
-    <button style="background-color: green; color: white; font-size: large; offset: 20%;" 
-    onclick="changeToSmile()">Make Meow Happy</button>
+    <button style="background-color: green; color: white; font-size: large; offset: 20%;" onclick="changeToSmile()">Make
+      Meow Happy</button>
 
     <img id="gif" src="./assets/mood.gif" style="width: 150px;">
 
-    <button style="background-color: red; color: white; font-size: large; offset: 20%;" 
-    onclick="changeToSad()">Not Interested</button>
+    <button style="background-color: red; color: white; font-size: large; offset: 20%;" onclick="changeToSad()">Not
+      Interested</button>
 
   </p>
 
