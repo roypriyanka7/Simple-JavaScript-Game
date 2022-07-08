@@ -14,7 +14,7 @@ This is the starting phase of the game:
 
 And you can click any of the buttons which will show preview as below:
 <p align="center">
-<img src= "https://github.com/roypriyanka7/Simple-JavaScript-Game/blob/master/overview_image2.jpg" width="47%">
+<img src= "https://github.com/roypriyanka7/Simple-JavaScript-Game/blob/master/overview_image2.jpg" width="49%">
 <img src= "https://github.com/roypriyanka7/Simple-JavaScript-Game/blob/master/overview_image3.jpg" width="49%">
 Figure: Happy Face and Sad Face respectively
 </p>
